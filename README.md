@@ -3,7 +3,7 @@ I’m currently working on: Developing and enhancing Unity games, focusing on te
 
 <div style="display: flex; align-items: center;">
     <div>
-        <img alt="Insane Coder" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" width="265" height="190" align="right" style="margin-right: 15px;"/>
+        <img alt="Insane Coder" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" width="265" height="190" style="margin-right: 15px;"/>
     </div>
     <div>
 
