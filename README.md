@@ -1,6 +1,8 @@
 # 💫 About Me:
 I’m currently working on: Developing and enhancing Unity games, focusing on technical design, team leadership, and implementing advanced features using plugins and analytics for user engagement at Factorial Studio.<br><br>I’m looking to collaborate on: Projects that require expertise in Unity, AR/VR, or WebGL, or any game development projects needing detailed analytics, player retention strategies, or feature optimization.<br><br>I’m looking for help with: Exploring new game technologies and optimizing workflows to enhance user engagement and streamline project development processes.<br><br>I’m currently learning: The latest Unity features, advanced game analytics, and retention analysis techniques to improve player experience.<br><br>Ask me about: Game development, Unity plugins, implementing design patterns and SOLID principles, optimizing for low-end devices, and managing game projects using tools like Trello and Jira.<br><br>Fun fact: I’ve worked on some of the most popular games in the hyper-casual genre and contributed to the development of a full-fledged metaverse platform.
 
+<img alt="Insane Coder" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" width=265 height=190 align="right"/>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fojiphoto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-qasim-4052b292/) 
